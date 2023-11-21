@@ -5,6 +5,10 @@ in a day. This includes learning Azure Machine Learning
 Prompt Flow, Content Safety, Azure OpenAI, LLMs 
 solutions Evaluation and Monitoring.
 
+## Contents
+
+[Workshop contents](TOC.md)
+
 ## Requirements
 
 - Workstation
