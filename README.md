@@ -21,7 +21,7 @@ solutions Evaluation and Monitoring.
     - [Azure Subscription](https://azure.com)
     - [Github.com Account](https://github.com)
 
-## First Steps
+## How do I start?
 
 1. Install the software listed in the previous section.
 2. Clone this repository to your local workstation.
@@ -58,4 +58,4 @@ Select the Python environment named workspace.
 
 ![select interpreter](images/select_interpreter.png)
 
-8. Open the [first_steps/setup.ipynb](first_steps/setup.md) notebook.
+8. Go to the [first_steps/setup.ipynb](first_steps/setup.md) instructions.
