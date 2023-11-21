@@ -58,4 +58,4 @@ Select the Python environment named workspace.
 
 ![select interpreter](images/select_interpreter.png)
 
-8. Open the [first_steps/setup.ipynb](first_steps/setup.ipynb) notebook.
+8. Open the [first_steps/setup.ipynb](first_steps/setup.md) notebook.
