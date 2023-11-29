@@ -20,12 +20,9 @@
  - Content safety to protect your solution.
 
 ##### 5: Automating Everything
- - Monitoring LLMs Solutions.
-
-##### 6: Automating Everything
  - Github and Github Actions.
  - Evaluation and Deployment Automation.
 
-##### 7: Best Practices and Lessons Learned
+##### 6: Best Practices and Lessons Learned
  - Learn some best practices on service limits, setting up workspaces, and Security.
  - Final discussions and wrap-up.
