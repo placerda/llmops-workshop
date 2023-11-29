@@ -1,8 +1,8 @@
 # LLMOps Workshop
 
-Learn how to build solutions with Large Language Models 
+Learn how to build solutions with Large Language Models
 in a day. This includes learning Azure Machine Learning
-Prompt Flow, Content Safety, Azure OpenAI, LLMs 
+Prompt Flow, Content Safety, Azure OpenAI, LLMs
 solutions Evaluation and Monitoring.
 
 ## Contents
@@ -12,11 +12,9 @@ solutions Evaluation and Monitoring.
 ## Requirements
 
 <!-- - Workstation
-
     - [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
     - [Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
     - [VS Code](https://code.visualstudio.com/)
-
 - Cloud -->
 
 * [Github.com Account](https://github.com).
@@ -32,37 +30,27 @@ solutions Evaluation and Monitoring.
 
 3. In you AzureML workspace create a compute to use during the workshop.
 
-    Compute > Compute Instances > New
-
-3. Open terminal:
+    Compute > Compute Instances > New.
+<p align="center">
+  <img src="images/create_compute.png" alt="Terminal" width="1024">
+</p>
+    
+4. Open terminal:
     
     Notebooks > Terminal
+<p align="center">
+  <img src="images/terminal.png" alt="Terminal" width="1024">
+</p>
+    
 
-4. Clone this repository.
+5. Clone this repository.
 
 ```
     git clone https://github.com/placerda/llmops-workshop.git
 ```
 
-1. Open terminal to create and activate conda environment
-```
-conda create -n workshop python=3.10
-```
-1. Open the directory where the repository was cloned in terminal.
-```
-    cd llmops-workshop
-```
-1. Install the required python libraries.
-```
-    pip install -r requirements.txt
-```
-1. Add nbstripout git filter to avoid saving notebooks output.
-```
-nbstripout --install
-```
-1. Open VS Code.
-```
-    code .
-```
+6. **Done!** Now you can go to lesson 01 notebook.
 
-7. Go to the [VS Code setup](first_steps/vs_code_setup.md) instructions.
+<p align="center">
+  <img src="images/lab01.png" alt="Terminal" width="1024">
+</p> 
