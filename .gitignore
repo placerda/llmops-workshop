@@ -1,5 +1,7 @@
 local/
 *~$*.docx
+lesson_05/llmops-project
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
