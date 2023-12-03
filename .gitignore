@@ -1,6 +1,6 @@
 local/
 *~$*.docx
-lesson_05/llmops-project
+lesson_05/llmops-project/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
