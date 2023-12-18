@@ -20,8 +20,8 @@ solutions Evaluation and Monitoring.
 * [Github.com Account](https://github.com).
 * GitHub as the source control repository.
 * [Azure Subscription](https://azure.com).
+<!-- 
 * An Azure Machine Learning workspace.
-
 ## First Steps
 
 1. Create an AzureML workspace in your subscription.
@@ -53,4 +53,4 @@ solutions Evaluation and Monitoring.
 
 <p align="center">
   <img src="images/lab01.png" alt="Terminal" width="1024">
-</p> 
+</p>  -->

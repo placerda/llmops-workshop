@@ -13,13 +13,13 @@ for advanced learners, indicating the coding effort needed.
  - Azure AI Services Overview: 
    - Azure OpenAI  
    - Azure AI Studio 
-   - Azure Machine Learning 
+   - Azure ML PromptFlow 
    - Azure Content Safety 
 
 ##### Lesson 2: Building LLMs Orchestration Flows
 *low-code. 1h duration* 
  - LLM App Orchestration. 
- - AzureML Prompt Flow Standard and Chat flows. 
+ - AzureML Prompt Flow Standard and Chat flows.
 
 ##### Lesson 3: Evaluating and Deploying LLMs
 *low-code. 1.5h duration*
