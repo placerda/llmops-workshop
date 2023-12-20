@@ -1,6 +1,6 @@
 ####  Monitoring
 
-This Lab will be run together with the instructor where we will run the following steps:
+In this Lab, you will execute the following steps:
 
 1) Monitoring your LLMs flow.
 

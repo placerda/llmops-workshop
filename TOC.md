@@ -1,6 +1,6 @@
 #### Table of Contents
 
-The workshop offers modular, standalone lessons for flexible learning based on the student's role and 
+The workshop offers modular lessons for flexible learning based on the student's role and 
 knowledge. Each lesson is designed for an hour but may require more time depending on the topic. 
 
 Lessons are sorted by Coding Complexity: No-Code for beginners, Low-Code for intermediates, and Full-Code 
@@ -17,7 +17,7 @@ for advanced learners, indicating the coding effort needed.
    - Azure Content Safety 
 
 ##### Lesson 2: Building LLMs Orchestration Flows
-*low-code. 1h duration* 
+*low-code. 1.5h duration* 
  - LLM App Orchestration. 
  - AzureML Prompt Flow Standard and Chat flows.
 
@@ -25,14 +25,14 @@ for advanced learners, indicating the coding effort needed.
 *low-code. 1.5h duration*
  - Prompt flow Evaluation flows to evaluate LLMs Solutions. 
  - Generated content metrics: groundedness, relevance, etc. 
- - Content safety to protect your solution. 
  - Deploying LLMs Flows. 
 
 ##### Lesson 4: Monitoring and Responsible AI
 *low-code. 1h duration*
  - Monitoring LLMs orchestration flows. 
  - Generated content performance metrics. 
- - Non-functional performance metrics. 
+ - Operational metrics.
+- Content safety to protect your solution. 
 
 ##### Lesson 5: Team Collaboration
  *administration. 1h duration* 
@@ -42,6 +42,6 @@ for advanced learners, indicating the coding effort needed.
  - RBAC roles and permissions 
 
 ##### Lesson 6: Automating Everything
- *full-code. 2.5h duration* 
+ *full-code. 2h duration* 
  - Github and Github Actions. 
  - Evaluation and Deployment Automation.

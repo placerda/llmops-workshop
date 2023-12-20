@@ -1,5 +1,5 @@
 ####  Team Colaboration
 
-This Lab will be run together with the instructor where we will learn about project organization 
+In this Lab, you will learn about project organization and administration.
 
 https://learn.microsoft.com/en-us/azure/ai-studio/concepts/rbac-ai-studio
