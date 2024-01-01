@@ -1,6 +1,6 @@
 #### Table of Contents
 
-The workshop offers modular lessons for flexible learning based on the student's role and 
+The workshop offers modular lessons for flexible learning based on your role and 
 knowledge. Each lesson is designed for an hour but may require more time depending on the topic. 
 
 Lessons are sorted by Coding Complexity: No-Code for beginners, Low-Code for intermediates, and Full-Code 
