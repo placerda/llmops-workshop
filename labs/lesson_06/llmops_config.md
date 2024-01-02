@@ -1,6 +1,6 @@
 **llmops_config.json** file configuration parameters:
 
-- `ENV_NAME`:  This represents the environment type. (The template supports *pr* and *dev* environments.)
+- `ENV_NAME`:  This represents the environment type. (The template example supports *pr*, *dev* and *postprodeval* environments.)
 - `RUNTIME_NAME`:  This is the name of a Prompt Flow runtime environment, used for executing the prompt flows. Add values to this field only when you are using dedicated runtime and compute. The template uses automatic runtime by default.
 - `KEYVAULT_NAME`:  This points to an Azure Key Vault related to the Azure ML service, a service for securely storing and managing secrets, keys, and certificates.
 - `RESOURCE_GROUP_NAME`:  Name of the Azure resource group related to Azure ML workspace.
