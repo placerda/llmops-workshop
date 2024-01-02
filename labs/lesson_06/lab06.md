@@ -1,15 +1,12 @@
 ####  Lesson 6: Automating Everything
 
-In this Lab, you will learn how to automate the build, evaluation and deployment of your LLM orchestration flow. Para fazer isso nós utilizaremos como referência o [**LLMOps with Prompt Flow**](https://github.com/microsoft/llmops-promptflow-template) template to deploy an LLM using **Prompt Flow** and **Github Actions**.
+In this Lab, you will learn how to automate the build, evaluation and deployment of your LLM orchestration flow. To accomplish this, we will use the [**LLMOps with Prompt Flow**](https://github.com/microsoft/llmops-promptflow-template) template as a reference for deploying an LLM using **Prompt Flow** and **Github Actions**.
 
 #### Github Workflows and Prompt Flow flows
 
-The **LLMOps with Prompt Flow** template includes three example use cases:  
- - named_entity_recognition
- - web_classification
- - math_coding
+The **LLMOps with Prompt Flow** template includes three example use cases: named_entity_recognition, web_classification and math_coding.
 
-The idea is that these examples can serve as a reference for you to automate your own orchestration flow. For each example, a set of GitHub workflows has been provided to automate everything from unit testing to the deployment of the flow. These workflow files are located in the template's `.github/workflows` directory.
+The examples can serve as a reference for you to automate your own orchestration flow. For each example, a set of GitHub workflows has been provided to automate everything from unit testing to the deployment of the flow. These workflow files are located in the template's `.github/workflows` directory.
 
 In this Lab, we will use the **named_entity_recognition** example, which comes with the following workflows:
 
