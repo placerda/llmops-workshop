@@ -271,23 +271,11 @@ As can be seen in the next figure, on the right side, a simple flow is created w
 
 Notice that the configuration used previously in the Playground of deployment, prompt, and parameters such as temperature and max_tokens were automatically filled in during the creation of the flow.
 
-To run the flow in the Studio, you will need a Runtime. To create one, just select the + button at the top right of the screen.
+To run the flow in the Studio, you will need a Runtime. To start one, just select the Start option in the Runtime dropdown.
 
-![LLMOps Workshop](images/17.12.2023_20.21.55_REC.png)
+![LLMOps Workshop](images/03.01.2024_09.24.25_REC.png)
 
-In the creation of the Runtime, you will need to define a name for it and create a compute to run the runtime that represents the computational resource where the flow will actually execute.
-
-![LLMOps Workshop](images/17.12.2023_20.23.02_REC.png)
-
-Click on Create AzureML compute instance new compute and select the default option.
-
-![LLMOps Workshop](images/17.12.2023_20.23.22_REC.png)
-
-After requesting the creation, wait until the compute is in the Running state to select it and conclude the creation of the Runtime. At the time of selecting the compute, you will be asked to authenticate in it. Click on Create to conclude the creation of the Runtime.
-
-![LLMOps Workshop](images/17.12.2023_20.32.33_REC.png)
-
-Done! Now just select the newly created Runtime and click on the blue Chat button to test your flow in the chat window.
+Done! Now just select the started Runtime and click on the blue Chat button to test your flow in the chat window.
 
 ![LLMOps Workshop](images/17.12.2023_20.34.52_REC.png)
 
