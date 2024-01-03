@@ -7,7 +7,5 @@ In this Lab, you will execute the following steps:
 2) Deploy the flow to an online managed endpoint.
 
 References:
-
-https://learn.microsoft.com/en-us/azure/ai-studio/how-to/flow-bulk-test-evaluation
-
-https://learn.microsoft.com/en-us/azure/ai-studio/how-to/flow-deploy
+- https://learn.microsoft.com/en-us/azure/ai-studio/how-to/flow-bulk-test-evaluation
+- https://learn.microsoft.com/en-us/azure/ai-studio/how-to/flow-deploy

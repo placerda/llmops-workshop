@@ -7,7 +7,7 @@ The focus will be more on an overview of the creation process, so that in the ne
 1) Create a project in Azure AI Studio.
 2) Deploy an Azure OpenAI model.
 3) Use AzureAI Studio Playground.
-4) Work with an Open Source (Weights) LLM Model.
+4) Work with an Open Source LLM Model.
 5) Test the prompt in Content Safety.
 6) Create a Prompt Flow flow.
 
